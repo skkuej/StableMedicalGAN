@@ -12,6 +12,11 @@
 We aimed to **synthesize contrast-enhanced T1-weighted MRI (ceT1) image from pre-contrast T1-weighted MRI (preT1)**. We develped a generative adversarial network (GAN) to synthesize the ceT1 image better in particular to tumor region of interests (ROI). It consisted of 1 generator, 2 discriminator (**local disciminator for tumor**) and was performed to synthesize more authentic ceT1 images.
 
 
+<div align="center">
+  <img src="./fig1.png" width=530>
+</div>
+
+
 ## Data Description
 This experiment has been conducted by using Breast dynamic contrast T1-weighted MRI (DCE MRI) supported by Samsung Medical Centor and Gil Hospital.
 
@@ -36,7 +41,10 @@ Third, Choose one of them(Tumor ROI version, Multi-view Tumor ROI version) and E
 
 Then, we can get the images of results synthesized and NRMSE, PSNR, SSIM(manual) and SSIM2(tf.image.ssim).
 
-
+## Qualitative Results
+<div align="center">
+  <img src="./fig2.png" width=730>
+</div>
 
 ## Lincense
 
