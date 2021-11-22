@@ -1,5 +1,7 @@
 
- 
+# For model to synthesize contrast enhanced breast images
+# key words : MRI, T1 contrast-enhanced, synthesized, Generative-Adversarial Network, Self-attention, Residual Network
+
 <h1 align="center">
     <p> Stable Medical GAN </p>
 </h1>
@@ -40,6 +42,3 @@ Copyright (C) 2020-2021 Eunjin Kim dmswlskim970606@gmail.com This file is part o
 
  *******************************************************/
  
-# For model to synthesize contrast enhanced breast images
-# key words : MRI, T1 contrast-enhanced, synthesized, Generative-Adversarial Network, Self-attention, Residual Network
-
