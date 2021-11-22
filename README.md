@@ -17,7 +17,6 @@ This experiment has been conducted by using Breast dynamic contrast T1-weighted 
 
 DCE MRI have several series images, especially we used pre-contrast image (preT1) before the contrast agenet injection and contrast-enhanced image (ceT1) performing at 90 sec.
 
-## 
 
 
 ## Code Description
@@ -39,8 +38,6 @@ Then, we can get the images of results synthesized and NRMSE, PSNR, SSIM(manual)
 
 
 
-### Get more detail infomation : https://ieeexplore.ieee.org/abstract/document/9508579
-
 ## Lincense
 
 /*******************************************************
@@ -53,3 +50,5 @@ Then, we can get the images of results synthesized and NRMSE, PSNR, SSIM(manual)
 
  *******************************************************/
  
+#### Get more detail infomation : https://ieeexplore.ieee.org/abstract/document/9508579
+
