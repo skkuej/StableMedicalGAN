@@ -9,7 +9,13 @@
 
 
 ## Objective
-We aimed to **synthesize contrast-enhanced T1-weighted MRI (ceT1) image from pre-contrast T1-weighted MRI (preT1)**. We develped a generative adversarial network (GAN) to synthesize the ceT1 image better in particular to tumor region of interests (ROI). It consisted of 1 generator, 2 discriminator (**local disciminator for tumor**) and was performed to synthesize more authentic ceT1 images.
+We aimed to **synthesize contrast-enhanced T1-weighted MRI (ceT1) image from pre-contrast T1-weighted MRI (preT1)**.
+
+We develped a generative adversarial network (GAN) to synthesize the ceT1 image better in particular to tumor region of interests (ROI). 
+
+We applied the Spectral Normalization (SN) and residual learning on every convolution layer and spatial self-attention modules.
+
+For detailed tumor generation, this model consisted of 1 generator, 2 discriminator (**local disciminator for tumor**) and was performed to synthesize more authentic ceT1 images.
 
 
 <div align="center">
