@@ -20,8 +20,11 @@ All the things about TSGAN are coded by Python 3.2 and Tensorflow 2.3v. We train
 ## Executation
 
 First, open Load.ipynb included Evaluation, Load_data, Load_model files.
+
 Second, Change the path for data of Load_data.
+
 Third, Choose one of them(Tumor ROI version, Multi-view Tumor ROI version) and Excute load.ipynb
+
 Then, can get the images of results synthesized and NRMSE, PSNR, SSIM(manual) and SSIM2(tf.image.ssim).
 
 
