@@ -50,5 +50,5 @@ Then, we can get the images of results synthesized and NRMSE, PSNR, SSIM(manual)
 
  *******************************************************/
  
-#### Get more detail infomation : https://ieeexplore.ieee.org/abstract/document/9508579
+#### Get more detail information of this study : https://ieeexplore.ieee.org/abstract/document/9508579
 
